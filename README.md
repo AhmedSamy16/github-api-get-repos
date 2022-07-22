@@ -1,4 +1,4 @@
-# github-api-get-repos
+# github-api-search-repos
 
 Search Repos Using The Github API Displaying The Number of stars and the link to visit each repo.
 
